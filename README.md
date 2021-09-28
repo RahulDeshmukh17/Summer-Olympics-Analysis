@@ -5,7 +5,8 @@ This is a Summer Olympics Assignment in which we were asked to solve some partic
   1. Summer Olympics.ipnyb
   2. summer.csv
   
-Questions to be solved are mentioned are below: 
+**Questions to be solved are mentioned are below: **
+
 There were total 8 Questions given us to solve by analysing the "summer.csv" file.
 
 In how many cities Summer Olympics is held so far ?
@@ -17,8 +18,6 @@ In which year India won its first Gold Medal in Summer Olympics ?
 Which event is most popular in terms of number of players ? (Top 5)
 Which sport is having most female Gold Medalists ? (Top 5)
 Note: We were asked to plot the graph for the question where top 5 is mentioned.
-
-About the Dataset:
+**
+About the Dataset:**
 The dataset contains the datas of Summer Olympics from the year 1896 till 2012. These are the columns of the dataset: Year, City, Sport, Discipline, Athelete, Country, Gender, Event and Medal.
-
-About Me:
